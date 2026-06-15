@@ -4,6 +4,7 @@ Preprocessing is done using LabelEncoder and TF-IDF Vectorizer.
 
 # Files
 - EDA.py — Code for EDA.
+- Preprocessing_Text.py — Preprocessing the comment texts
 - Model.py — Code for modelling.
 - README.md — Description.
 
